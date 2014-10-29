@@ -60,7 +60,7 @@ function onSubmit(eventObject) {
     //get the name and the date-of-birth value
     var name = this.elements['name'].value;
     var dob = this.elements['dob'].value;
-
+c
     console.log(dob);
 
     try {
